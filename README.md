@@ -90,7 +90,7 @@ This application adheres to the api specifications that helps mix and match any 
 ## Start application
 
 - `npm start`
-- Test api with `http://localhost:3000/api` in your favourite browser
+- Test api with `http://localhost:3000/` in your favourite browser
 
 ----------
 
